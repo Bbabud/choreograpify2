@@ -1,0 +1,11 @@
+{
+  "floorWidth": 640,
+  "floorHeight": 400,
+  "floorLeft": 155,
+  "stepWidth": 40,
+  "stepHeight": 40,
+  "zoomRate": 1.1,
+  "zoomCount": 0,
+  "stepCount": 10,
+  "floorSteps": []
+}

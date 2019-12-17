@@ -1,0 +1,251 @@
+{
+  "floorWidth": 640,
+  "floorHeight": 400,
+  "floorLeft": 155,
+  "stepWidth": 40,
+  "stepHeight": 40,
+  "zoomRate": 1.1,
+  "zoomCount": 0,
+  "stepCount": 10,
+  "floorSteps": [
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id1",
+      "name": "Basic Backward Step",
+      "startDegree": 0,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 320,
+        "y": 280
+      },
+      "highlighted": true
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id2",
+      "name": "Basic Backward Step",
+      "startDegree": 0,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 540,
+        "y": 240
+      },
+      "highlighted": false
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id3",
+      "name": "Basic Backward Step",
+      "startDegree": 0,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 160,
+        "y": 200
+      }
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id4",
+      "name": "Basic Backward Step",
+      "startDegree": 0,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 240,
+        "y": 160
+      },
+      "highlighted": true
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id5",
+      "name": "Basic Backward Step",
+      "startDegree": -45,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 240,
+        "y": 180
+      },
+      "highlighted": true
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id6",
+      "name": "Basic Forward Step",
+      "startDegree": 0,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": 1,
+      "sidewaysDistance": 1,
+      "draggable": true,
+      "position": {
+        "x": 80,
+        "y": 240
+      },
+      "highlighted": true
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id7",
+      "name": "Basic Forward Step",
+      "startDegree": 0,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": 1,
+      "sidewaysDistance": 1,
+      "draggable": true,
+      "position": {
+        "x": 300,
+        "y": 200
+      },
+      "highlighted": false
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id8",
+      "name": "Basic Forward Step",
+      "startDegree": -45,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": 1,
+      "sidewaysDistance": 1,
+      "draggable": true,
+      "position": {
+        "x": 160,
+        "y": 180
+      },
+      "highlighted": true
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id9",
+      "name": "Basic Backward Step",
+      "startDegree": -45,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 20,
+        "y": 120
+      },
+      "highlighted": false
+    },
+    {
+      "refs": {},
+      "updater": {},
+      "state": {
+        "activeDrags": 0,
+        "controlledPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "id": "id10",
+      "name": "Basic Backward Step",
+      "startDegree": -45,
+      "endDegree": 0,
+      "turnDegree": 0,
+      "forwardDistance": -1,
+      "sidewaysDistance": -1,
+      "draggable": true,
+      "position": {
+        "x": 140,
+        "y": 180
+      },
+      "highlighted": false
+    }
+  ]
+}
