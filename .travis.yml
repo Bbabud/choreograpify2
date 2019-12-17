@@ -18,4 +18,4 @@ deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
-  on: master
+  on: gh-pages
